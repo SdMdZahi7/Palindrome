@@ -54,6 +54,9 @@ namespace  Palindrome
 ~~~
 
 ## Output:
+![2](https://user-images.githubusercontent.com/94187572/190057467-01fb5786-001d-4503-8e9c-fa9b26978672.png)
+![1](https://user-images.githubusercontent.com/94187572/190057489-29402e21-191a-481f-b0c5-f7cb86384927.png)
+
 
 ## Result:
 Thus the C# program to display whether the given string is Palindrome or not is executed successfully.
